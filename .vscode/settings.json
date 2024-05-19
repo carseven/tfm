@@ -1,5 +1,8 @@
 {
     "editor.rulers": [
         100
-    ]
+    ],
+    "latex-workshop.latex.outDir": "./build",
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    "latex-workshop.view.pdf.viewer": "tab",
 }
